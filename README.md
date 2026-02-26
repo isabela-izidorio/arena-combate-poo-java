@@ -1,3 +1,8 @@
+## Apresentação
+
+Simulador de combate por turnos construído em Java, focado na aplicação prática de POO: Herança, Polimorfismo, Interfaces e Encapsulamento.
+Projeto de estudo.
+
 ## Regras de Negócio e Dinâmicas
 
 ### Núcleo de Personagem (Base)
@@ -71,3 +76,4 @@ Aldeão: Não possui habilidades de combate (não implementa a interface Lutador
                                 | + usarEspecial(alvo)  |
                                 | + defender()          |
                                 +-----------------------+
+
